@@ -1,0 +1,11 @@
+{
+  "name": "@meet-direct/enums",
+  "version": "1.0.1",
+  "description": "This package contains shared enums for the meet.direct project",
+  "main": "index.js",
+  "author": "Jonas Mueller",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}

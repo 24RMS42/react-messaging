@@ -1,0 +1,13 @@
+{
+  "name": "@meet-direct/utils",
+  "version": "2.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Jonas Mueller",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4"
+  }
+}
